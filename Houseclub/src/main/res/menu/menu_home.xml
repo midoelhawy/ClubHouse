@@ -12,7 +12,7 @@
     <item
         android:id="@+id/homeMenuInvite"
         android:icon="@drawable/ic_baseline_mail_outline_24"
-        android:showAsAction="always"
+        android:showAsAction="never"
         android:title="" />
 
     <item
